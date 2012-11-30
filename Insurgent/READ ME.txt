@@ -1,0 +1,3 @@
+* Need to work on AI for RAIDER
+* Skin for RAIDER
+* TEXT for RAIDER
