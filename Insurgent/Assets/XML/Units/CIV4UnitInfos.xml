@@ -1026,7 +1026,7 @@
 				</Build>
 				<Build>
 					<BuildType>BUILD_FORT</BuildType>
-					<bBuild>1</bBuild>
+					<bBuild>0</bBuild> <--! WE never build forts, so he turned them off. Should not be off in final version -->
 				</Build>
 				<Build>
 					<BuildType>BUILD_REMOVE_JUNGLE</BuildType>
